@@ -2,7 +2,7 @@
 
 ## 순방향 신경망의 구조
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3b20b63-c6df-4f6e-8ced-38587402047b/Untitled.png)
+![image](https://github.com/seoyerin1130/TIL/assets/127005534/011a02cb-838b-4244-bd54-69156d6fed53)
 
 - 순방향 신경망은 위와 같이 뉴런들이 모여 Layer들을 이루고 계층이 쌓여
     
@@ -16,7 +16,7 @@
 
 ### 순방향 신경망의 계층 구조
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a367a43e-1698-427f-8ac5-8b28ca8f0c31/Untitled.png)
+![image](https://github.com/seoyerin1130/TIL/assets/127005534/c7486b79-238f-4c20-85ec-d0988aad1d9b)
 
 순방향 신경망은 입력계층, 은닉계층, 출력계층으로 나뉜다.
 
