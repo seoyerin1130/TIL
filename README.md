@@ -33,7 +33,7 @@
 
 **완전 연결 계층(fully connected layer)** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b23b4232-5f1f-4c07-a365-b043a7ebd553/Untitled.png)
+![image](https://github.com/seoyerin1130/TIL/assets/127005534/a5ba9feb-e303-499e-a3ef-e1d3151b033f)
 
 계층에 속한 각 뉴런이 이전 계층의 모든 뉴런과 모두 연결된 구조
 
@@ -55,7 +55,8 @@
 
 **활성 함수** : 원하는 형태로 특징 추출하기 위해 데이터를 비선형적으로 변환하는 과정
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0e26c3f-d46a-4a5b-a9e5-30add966eb76/Untitled.png)
+![image](https://github.com/seoyerin1130/TIL/assets/127005534/4b225ee4-8853-4965-befc-b6c04fd23884)
+
 
 - 뉴런 구조는 퍼셉트론의 구조와 동일하다. Perceptron은 perception과 neuron의 합성어이며 인공 뉴런이라고도 부른다.
 
@@ -82,7 +83,7 @@
 
 뉴런에 사용되는 함수 중 기본 활성 함수라고 할 수 있는 ReLU(Rectified Linear Unit)를 살펴보면     경첩 형태의 비선형 함수로 되어 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee0d0969-3d80-4b1e-a5ce-a675dbaadd1f/Untitled.png)
+![image](https://github.com/seoyerin1130/TIL/assets/127005534/3a1931d9-e660-4b92-b7de-3f85025e0f3e)
 
 ReLU는 **입력 값이 0보다 크면 그대로 출력**하고 **0보다 작거나 같으면 0을 출력**하는 구간 선형 함수
 
